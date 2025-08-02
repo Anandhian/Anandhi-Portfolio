@@ -84,9 +84,9 @@ export const tool3 = [
   {
     img: aspect,
     title: "Frontend project",
-    heading: "Diamond",
+    heading: "E-commerce Website",
     img1: send,
-    link:"https://anandhian.github.io/Diamond/"
+    link:"https://forever-sage-chi.vercel.app/"
   },
   {
     img: aspect2,
@@ -98,9 +98,9 @@ export const tool3 = [
   {
     img: aspect3,
     title: "Frontend",
-    heading: "Login-Page",
+    heading: "I love Pdf Website",
     img1: send,
-    link:"https://reactart-iota.vercel.app/"
+    link:"https://i-love-pdfweb-mygw.vercel.app/"
   },
   {
     img: aspect4,
